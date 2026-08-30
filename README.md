@@ -1,4 +1,15 @@
-# The Crossroads
+     the
+      |\
+      | \
+      C  R
+      | /
+      |/
+      O
+     /| 
+    / |
+  ┌S  A
+  └┘\|
+      D
 
               ------____       
              |          ***---    This is Murphy. Say hi to Murphy.
